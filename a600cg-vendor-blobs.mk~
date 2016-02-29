@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/asus/a500cg
+LOCAL_PATH := vendor/asus/a600cg
 
 PRODUCT_COPY_FILES += \
-	$(call find-copy-subdir-files,*,vendor/asus/a500cg/proprietary/system,system)
+	$(call find-copy-subdir-files,*,vendor/asus/a600cg/proprietary/system,system)
